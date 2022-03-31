@@ -1,0 +1,172 @@
+*{
+    padding: 0;
+    margin: auto;
+}
+body {
+    width: 100%;
+    background-color: rgb(226, 250, 250);
+    margin: auto;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.navbar {
+    width: 100%;
+    height: 8vh;
+    background-color: #1b2430;    
+}
+.navbar div {
+    width: 95%;
+    margin: auto;
+}
+.logo {
+   height: 40px;
+   padding: 8px 8px 0 0;
+}
+.nav-link {
+    width: 100%;
+    height: 5vh;
+    background-color: #293d58;
+}
+ul.nav-items{
+    width: 95%;    
+    margin: auto;
+    padding-top: 5px;
+}
+.nav-items li {
+    display: inline;
+    color: white;
+    margin-right: 25px;
+    padding-top: 10px;
+    font-size: 15px;
+}
+.holiday-gift-card {
+    width: 95%;
+    height: 5vh;
+    background-color: rgb(207, 114, 7);
+    text-align: center;
+    margin-top: 25px;
+    margin-bottom: 25px;
+    
+}
+.holiday-gift-card p{
+    color: white;
+    padding-top: 11px;
+}
+.holiday-guides{
+    width: 95%;
+    margin: auto;
+    margin-bottom: 25px;
+    position: relative;
+
+}
+.holiday-gift-guide{
+    position: absolute;
+    top: 30%;
+    left: 42%;
+    text-align: center;
+    color: white;
+}
+.holiday-gift-guide h2 p{
+    text-align: center;
+    padding: 10px;
+}
+.holiday-gift-guide p{
+    padding: 20px;
+}
+.bg-image {
+    width: 100%;
+}
+.find-gift {
+    width: 95%;
+    background-color: white;
+
+}
+.find-gift h4 {
+    padding-top: 20px;
+    padding-left: 25px;
+
+}
+.gift-items div{
+    width: 98%;
+    display: inline;
+    margin: auto;
+    
+}
+.gift-items h4 span{
+    color: rgb(33, 33, 182);
+    margin-left: 20px;
+    
+}
+.gift-imges img {
+    width: 300px;
+    height: 450px;    
+    object-fit: cover;
+    border-radius: 10px;
+    justify-content: space-between;
+    box-shadow: 5px 5px 5px 5px rgba(150, 149, 149, 0.2);
+    margin: 27px;
+    
+}
+.shop-gaming {
+    width: 95%;
+    margin-top: 30px;
+}
+.shop-gaming img{
+    width: 100%;
+}
+.shop-gaming p{
+    text-align: center;
+}
+.shop-gaming p span{
+    color: rgb(33, 33, 182);
+    font-weight: 600;
+    font-size: small;
+    margin-left: 20px;
+}
+.audio-acce {
+    margin-top: 20px;
+    width: 95%;
+}
+.audio-acce img{
+    width: 100%;
+}
+.audio-acce p{
+    text-align: center;
+    padding-top: 5px;
+    padding-bottom: 15px;
+   
+}
+.audio-acce p span{
+    color: rgb(33, 33, 182);
+    font-weight: 600;
+    font-size: small;
+    margin-left: 20px;
+}
+.footer{
+    width: 100%;
+}
+.back-to-top {
+    width: 100%;
+    height: 6vh;
+    background-color: #293d58;
+    text-align: center;
+    padding-top: 10px;
+}
+.back-to-top a{
+    color: white;
+    padding-top: 20px;
+    font-size: large;
+    font-weight: bold;
+    
+}
+.amazon-footer {
+    width: 100%;
+    height: 20vh;
+    background-color: #1b2430;    
+    text-align: center;
+}
+.footer-logo {
+    top: 30%;
+    height: 70px;
+    text-align: center;
+    position: relative;
+}
